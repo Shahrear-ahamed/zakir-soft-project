@@ -1,0 +1,9 @@
+.top-section {
+  background-image: url("top-banner.png");
+}
+.header-icon {
+  font-size: 20px;
+}
+.bottom-menu> div> i{
+    font-size: 18px;
+}
